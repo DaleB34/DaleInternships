@@ -1,0 +1,8 @@
+-- database: c:\Users\91112021\.vscode\InternshipSQL\internship.db
+
+SELECT * FROM internships;
+SELECT * FROM internships ORDER BY location;
+SELECT * FROM internships ORDER BY minPay;
+SELECT * FROM internships WHERE education=1;
+SELECT * FROM internships WHERE minPay>20;
+SELECT * FROM internships WHERE minPay>20;
